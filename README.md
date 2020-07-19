@@ -4,3 +4,4 @@ the first one to edit this file
 
 i want to fix bug
 this is for master
+this is for feature-1 
